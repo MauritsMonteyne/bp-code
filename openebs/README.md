@@ -1,5 +1,6 @@
 
 https://openebs.io/docs/stateful-applications/postgres
+https://gist.github.com/kmova/1c15a0ca5e63a24d7ae1718496175b23
 
 https://medium.com/harsh-thakur/deploy-mayastor-on-gke-784ad28babd9
 
